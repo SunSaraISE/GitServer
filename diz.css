@@ -3,3 +3,7 @@ body{
     background-repeat: no-repeat;
     background-position: center 40px;
 }
+.smeshniekartinki button{
+    background-color: coral;
+    padding: 40px 50px;
+}
