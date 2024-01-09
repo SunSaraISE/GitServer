@@ -1,9 +1,27 @@
 body{
-    background-image: url(kot.jpg);
-    background-repeat: no-repeat;
-    background-position: center 40px;
+    
+    display: inline-flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-left: 30px;
 }
-.smeshniekartinki button{
-    background-color: coral;
-    padding: 40px 50px;
+.tab button{
+
+        margin-left: 0;
+        margin-top: 0;
+        border-radius: 3px;
+        font-family: Calibri;
+        font-size: 32px;
+        text-decoration: none;
+        padding: .8em 1em calc(.8em + 3px);
+        background: rgb(12, 119, 64);
+        box-shadow: 0 -3px rgb(53,167,110);
+        color: white;
+    
 }
+p{
+    font-family: Impact;
+    font-size: 40px;
+}
+div.outer 
+{position: right; margin-top: 14px;}
